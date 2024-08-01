@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there 👋, I'm Alex Wang</h1>
 
-- 🔭 I’m currently working on **Machine Learning & Edge AI, etc**.
+- 🔭 I’m currently working on **Machine Learning & Google Vertex AI, etc**.
 
 - 🌱 I’m currently learning **Signal Processing, Machine Learning Algorithms, Quantization/Pruning, etc**.
 
